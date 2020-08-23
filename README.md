@@ -1,1 +1,2 @@
 # Sandwich-Recipe
+This is a recipe for how I make vegetarian sandwiches. Sandwiches are a great meal that is filling and healthy. There are a variety of healthy ingredients in sandwiches, and they can be customized for the likings of different people.
